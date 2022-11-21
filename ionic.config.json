@@ -1,0 +1,7 @@
+{
+  "name": "bibiliya_nyeranda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
